@@ -58,3 +58,14 @@ Monitor results:
 ```sh
 tensorboard --logdir ./logs/atari_pong --samples_per_plugin "images=1000"
 ```
+
+## Results
+Results on DMC:
+
+<p align='center'>
+<img src="figs/fig_dmc.png"> 
+  
+Results on Atari:
+
+<p align='center'>
+<img src="figs/fig_atari.png"> 
