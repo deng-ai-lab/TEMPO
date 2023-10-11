@@ -2,6 +2,9 @@
 This is a implementation of Task-aware Environment Modeling Pipline with Bi-level Optimization (TEMPO) 
 built on top of the official [DreamerV2][website] code.
 
+<p align='center'>
+<img src="figs/fig_tempo.png"> 
+
 [website]: https://danijar.com/dreamerv2
 
 If you find this code useful, please reference our paper in your work:
