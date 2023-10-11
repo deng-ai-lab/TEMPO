@@ -1,4 +1,4 @@
-# <p align="center">Task-aware world model learning<br>with meta weighting via bi-level optimization</p>
+# <p align="center">Task-aware world model learning <br>with meta weighting via bi-level optimization <br>(NeurIPS 2023)</p>
 
 This is a implementation of Task-aware Environment Modeling Pipline with Bi-level Optimization (TEMPO) 
 built on top of the official [DreamerV2][website] code.
@@ -8,7 +8,14 @@ built on top of the official [DreamerV2][website] code.
 If you find this code useful, please reference our paper in your work:
 
 ```
-
+@inproceedings{
+anonymous2023taskaware,
+title={Task-aware world model learning with meta weighting via bi-level optimization},
+author={Anonymous},
+booktitle={Thirty-seventh Conference on Neural Information Processing Systems},
+year={2023},
+url={https://openreview.net/forum?id=IN3hQx1BrC}
+}
 ```
 
 ## Instructions
