@@ -16,9 +16,7 @@ year={2023},
 url={https://openreview.net/forum?id=IN3hQx1BrC}
 }
 ```
-
-## Instructions
-
+## Dependencies
 This code work in a similar fashion to [DreamerV2][website]. Our main modifications are concentrated in 
 `agent.py` and `common/nets.py`. A conda environment configuration of our experiments is provided in 
 [`env_config.yml`](https://github.com/HuiningYuan/TEMPO/blob/main/env_configs.yml).
@@ -34,6 +32,7 @@ atari-py==0.2.9
 dm-control==1.0.11
 ```
 
+## Instructions
 Default hyperparameters for our experiments are provided in 
 [`config.yaml`](https://github.com/HuiningYuan/TEMPO/blob/main/configs.yaml). By default, the code 
 evaluates agent's performance with one episode every 1e5 training steps for Atari and 1e4 training steps 
