@@ -3,7 +3,7 @@ This is a implementation of Task-aware Environment Modeling Pipline with Bi-leve
 built on top of the official [DreamerV2][website] code.
 
 <p align='center'>
-<img src="figs/fig_tempo.png" width="400"> 
+<img src="figs/fig_tempo.png" width="600"> 
 
 [website]: https://danijar.com/dreamerv2
 
@@ -63,9 +63,9 @@ tensorboard --logdir ./logs/atari_pong --samples_per_plugin "images=1000"
 Results on DMC:
 
 <p align='center'>
-<img src="figs/fig_dmc.png"> 
+<img src="figs/fig_dmc.png" width="800"> 
   
 Results on Atari:
 
 <p align='center'>
-<img src="figs/fig_atari.png"> 
+<img src="figs/fig_atari.png" width="800"> 
