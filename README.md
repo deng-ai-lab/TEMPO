@@ -2,8 +2,6 @@
 This is a implementation of Task-aware Environment Modeling Pipline with Bi-level Optimization (TEMPO) 
 built on top of the official [DreamerV2][website] code.
 
-This code work in a similar fashion to [DreamerV2][website]. Our main modifications are concentrated in `agent.py` and `common/nets.py`.
-
 <p align='center'>
 <img src="figs/fig_tempo.png" width="600"> 
 
@@ -37,6 +35,8 @@ dm-control==1.0.11
 ```
 
 ## Instructions
+This code work in a similar fashion to [DreamerV2][website]. Our main modifications are concentrated in `agent.py` and `common/nets.py`.
+
 Default hyperparameters for our experiments are provided in 
 [`config.yaml`](https://github.com/HuiningYuan/TEMPO/blob/main/configs.yaml). By default, the code 
 evaluates agent's performance with one episode every 1e5 training steps for Atari and 1e4 training steps 
