@@ -23,7 +23,6 @@ url={https://openreview.net/forum?id=IN3hQx1BrC}
 ## Dependencies
 A conda environment configuration of our experiments is provided in 
 [`env_config.yml`](https://github.com/HuiningYuan/TEMPO/blob/main/env_configs.yml).
-
 Core dependencies can be installed using `pip`:
 
 ```sh
