@@ -39,7 +39,7 @@ dm-control==1.0.11
 Default hyperparameters for our experiments are provided in 
 [`config.yaml`](https://github.com/HuiningYuan/TEMPO/blob/main/configs.yaml). By default, the code 
 evaluates agent's performance with one episode every 1e5 training steps for Atari and 1e4 training steps 
-for DM Control.
+for DMC.
 
 Train on Atari:
 
