@@ -3,7 +3,7 @@ This is a implementation of Task-aware Environment Modeling Pipline with Bi-leve
 built on top of the official [DreamerV2][website] code.
 
 <p align='center'>
-<img src="figs/fig_tempo.png" width="600"> 
+<img src="figs/fig_tempo.png" width="500"> 
 
 [website]: https://danijar.com/dreamerv2
 
