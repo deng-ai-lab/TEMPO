@@ -48,7 +48,7 @@ Train on Atari:
 python3 train.py --logdir ./logs/atari_pong --configs atari --task atari_pong
 ```
 
-Train on DM Control:
+Train on DMC:
 
 ```sh
 python3 train.py --logdir ./logs/dmc_walker_walk --configs dmc_vision --task dmc_walker_walk
