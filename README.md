@@ -11,9 +11,9 @@ If you find this code useful, please reference our paper in your work:
 
 ```
 @inproceedings{
-anonymous2023taskaware,
+yuan2023taskaware,
 title={Task-aware world model learning with meta weighting via bi-level optimization},
-author={Anonymous},
+author={Huining Yuan and Hongkun Dou and Xingyu Jiang and Yue Deng},
 booktitle={Thirty-seventh Conference on Neural Information Processing Systems},
 year={2023},
 url={https://openreview.net/forum?id=IN3hQx1BrC}
